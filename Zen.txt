@@ -10,4 +10,4 @@
 8.Special cases aren't special enough to break the rules.
 9.Although practicality beats purity.
 10.
-11.
+11.Unless explicitly silenced.
