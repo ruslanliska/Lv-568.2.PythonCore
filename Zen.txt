@@ -2,7 +2,7 @@
 
 1.Beautiful is better than ugly.
 2. Explicit is better than implicit.
-3.
+3. Simple is better than complex.
 4.
 5. Flat is better than nested.
 6.
@@ -11,3 +11,11 @@
 9.
 10.
 11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.Namespaces are one honking great idea -- let's do more of those!
