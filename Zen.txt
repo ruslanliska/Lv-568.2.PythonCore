@@ -7,15 +7,7 @@
 5. Flat is better than nested.
 6.
 7.Readability counts.
-8.
+8.Special cases aren't special enough to break the rules.
 9.
 10.
 11.
-12.
-13.
-14.
-15.
-16.
-17.
-18.
-19.Namespaces are one honking great idea -- let's do more of those!
