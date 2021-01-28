@@ -1,12 +1,12 @@
 !!!Zen of Python!!!
 
-1.
+1.Beautiful is better than ugly.
 2. Explicit is better than implicit.
 3.
 4.
 5. Flat is better than nested.
 6.
-7.
+7.Readability counts.
 8.
 9.
 10.
