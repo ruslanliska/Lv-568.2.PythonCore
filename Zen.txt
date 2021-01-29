@@ -11,6 +11,7 @@
 9.Although practicality beats purity.
 10.Errors should never pass silently.
 11.Unless explicitly silenced.
+12.In the face of ambiguity, refuse the temptation to guess.
 14.Although that way may not be obvious at first unless you're Dutch.
 17.If the implementation is hard to explain, it's a bad idea.
 
