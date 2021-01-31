@@ -14,4 +14,5 @@
 14.Although that way may not be obvious at first unless you're Dutch.
 17.If the implementation is hard to explain, it's a bad idea.
 20.Beautiful is better than ugly.
+21.Explicit is better than implicit.
 
