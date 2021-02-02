@@ -18,7 +18,3 @@
 20.Beautiful is better than ugly.
 21.Explicit  is better than implicit.
 23.Complex is better than complicated.
-
-// TS
-//TS 
-// T S
